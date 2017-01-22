@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/rezurrector/starwars-namez/issues"
   },
-  "homepage": "https://github.com/rezurrector/starwars-namez#readme"
+  "homepage": "https://github.com/rezurrector/starwars-namez#readme",
+  "dependencies": {
+    "unique-random-array": "1.0.0"
+  }
 }
