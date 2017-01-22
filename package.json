@@ -1,0 +1,24 @@
+{
+  "name": "starwars-namez",
+  "version": "1.0.0",
+  "description": "Get random Star War names",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rezurrector/starwars-namez.git"
+  },
+  "keywords": [
+    "random",
+    "star",
+    "wars"
+  ],
+  "author": "angel r marquez <angel.marquez@gmail.com> (http://angelrobertmarquez.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rezurrector/starwars-namez/issues"
+  },
+  "homepage": "https://github.com/rezurrector/starwars-namez#readme"
+}
